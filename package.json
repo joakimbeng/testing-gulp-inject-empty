@@ -1,0 +1,16 @@
+{
+  "name": "injectempty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Joakim Carlstein <joakim@beng.se> (http://joakim.beng.se/)",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject": "^3.0.0"
+  }
+}
