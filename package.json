@@ -1,11 +1,13 @@
 {
-  "name": "injectempty",
+  "name": "testing-gulp-inject-empty",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "node test.js"
   },
+  "private": true,
+  "repository": "joakimbeng/testing-gulp-inject-empty",
   "keywords": [],
   "author": "Joakim Carlstein <joakim@beng.se> (http://joakim.beng.se/)",
   "license": "MIT",
